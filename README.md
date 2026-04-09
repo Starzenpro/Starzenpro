@@ -1,39 +1,84 @@
-# 🚀 Katleho King Tsilete
+# 🚀 Katleho “King” Tsilete
 
-## 🧠 AI | Data Science | Cloud Engineering
+## AI & Cloud Engineer | Financial Systems | DevOps & Cybersecurity
 
-I build intelligent systems for finance, security, and cloud environments.
+I design and deploy intelligent systems that solve real-world problems in finance, cloud infrastructure, and security.
+
+My work focuses on building production-ready applications that combine:
+- Machine Learning & NLP
+- Cloud Architecture (AWS & Azure)
+- DevOps (Docker, CI/CD)
+- Infrastructure as Code (Terraform)
 
 ---
 
 ## 🔥 Key Projects
 
-### 🧠 AI Financial Analyzer
-Analyzes 10-K & 10-Q reports using NLP  
-→ Extracts insights, risks, and trends
+### 🧠 Financial AI Analyzer
+NLP-based system for analyzing financial reports (10-K / 10-Q) and extracting:
+- Revenue trends
+- Risk factors
+- Performance insights  
+
+**Stack:** Python, NLP, Streamlit, Docker  
+
+---
 
 ### 🔐 AI Fraud Detection System
-Machine learning system detecting fraudulent transactions  
-→ Real-time classification + feature engineering
+Machine learning system for detecting fraudulent financial transactions:
+- Real-time classification  
+- Feature engineering  
+- Model evaluation  
+
+**Stack:** Python, Scikit-learn  
+
+---
 
 ### ☁️ Cloud Security Scanner
-Detects misconfigurations in AWS/Azure  
-→ Generates compliance-ready reports
+Tool for identifying cloud misconfigurations:
+- Detects public exposure risks  
+- Generates security insights  
+- Supports cloud governance  
+
+**Stack:** Python, AWS/Azure  
+
+---
+
+### ⚙️ Cloud DevOps Pipeline
+Production-ready CI/CD pipeline:
+- Dockerized applications  
+- Automated builds using GitHub Actions  
 
 ---
 
 ## 🛠 Tech Stack
-Python | SQL | Pandas | Scikit-learn  
-Docker | Kubernetes | Terraform  
-Azure | AWS  
+
+**AI & Data:**  
+Python, Pandas, NumPy, Scikit-learn, NLP  
+
+**Cloud & DevOps:**  
+AWS, Azure, Docker, Kubernetes, Terraform, CI/CD  
+
+**Engineering:**  
+Git, API Design, System Architecture  
 
 ---
 
-## 📈 Vision
-Building Nayabo Solutions into a **financial AI & cybersecurity company**
+## 📈 Current Focus
+
+- Deploying AI systems to cloud environments  
+- Integrating Kubernetes & Terraform into production workflows  
+- Building scalable financial AI systems  
+
+---
+
+## 🧭 Vision
+
+Building **Nayabo Solutions** into a leading AI, Cloud, and Cybersecurity company focused on financial systems.
 
 ---
 
 ## 📫 Contact
-Email: tsileteking@gmail.com  
-LinkedIn: https://www.linkedin.com/in/katleho-king-tsilete-391a8b54/
+
+📧 Email: tsileteking@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/katleho-king-tsilete-391a8b54/
